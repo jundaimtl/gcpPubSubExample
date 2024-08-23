@@ -1,7 +1,7 @@
 # gcpPubSubExample
 Scala code sample to subscribe GCP Pub/Sub service and consume messages.
-The code does not include authentication part, we assume ADC is used.
-To get started, replace project id and subscription id with your GCP setting:
+<br>The code does not include authentication part, we assume ADC is used.
+<br>To get started, replace project id and subscription id with your GCP setting:
 <br>Aka.
 ```
 val projectId: String = ""
